@@ -34,10 +34,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:leonardo.candela@isti.cnr.it'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/leonardocandela
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
@@ -133,10 +133,10 @@ skills:
         icon: book-open
 
 languages:
+  - name: Italian
+    percent: 100
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +166,5 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Leonardo Candela is a Senior Researcher in Computer Science at the National Research Council of Italy, Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo” (ISTI-CNR). His research is centered on the design and development of systems and services that support research infrastructures for science. He focus particularly on virtual research environments, data infrastructures, collaborative working environments, reference models for complex systems, information retrieval, data analytics, data publishing, and innovative scholarly communication practices.
+His work bridges research and development, and he has contributed to numerous EU-funded projects dedicated to advancing digital libraries and data infrastructures. He currently serves as the Scientific Director of the D4Science.org infrastructure, a key platform supporting open science and collaborative research. 
