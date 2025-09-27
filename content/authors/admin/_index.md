@@ -13,8 +13,8 @@ last_name: Candela
 pronouns: he/him
 
 # Status emoji
-status:
-  icon: 🚀
+#status:
+#  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,8 +27,8 @@ role: Senior Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: National Research Council of Italy
-    url: https://ai.meta.com/
+  - name: National Research Council of Italy - Institute of Information Science and Technologies "Alessandro Faedo"
+    url: https://www.isti.cnr.it
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,8 +52,8 @@ interests:
 
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Information Science 
+    institution: University of Pisa
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
@@ -61,22 +61,16 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
+
   - area: MS Computer Science
-    institution: Carnegie Mellon University
+    institution: University of Pisa
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
